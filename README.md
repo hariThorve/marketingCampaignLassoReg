@@ -40,13 +40,13 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/marketing-campaign-prediction.git
-   cd marketing-campaign-prediction
+   git clone https://github.com/hariThorve/marketingCampaignLassoReg.git
+   cd marketingCampaignLassoReg
    ```
 
 2. Install the required packages:
    ```bash
-   pip install pandas scikit-learn openpyxl matplotlib seaborn
+   pip install pandas scikit-learn 
    ```
 
 ## Usage
@@ -58,4 +58,4 @@ To set up the project, follow these steps:
 5. Train the Lasso regression model and perform feature selection.
 6. Make predictions and evaluate the model's performance.
 
-### Example Code
+

@@ -20,11 +20,7 @@ This project aims to predict the effectiveness of marketing campaigns using mach
 - Python
 - Pandas
 - Scikit-learn
-- NumPy
-- Matplotlib
-- Seaborn
-- Jupyter Notebook (optional for exploration)
-
+-
 ## Dataset
 
 The dataset used for this project is `marketing_campaign.xlsx`, which contains demographic and behavioral data related to marketing campaigns. Key features include:
